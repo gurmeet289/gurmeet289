@@ -6,15 +6,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imgurmeet4u&label=Profile%20views&color=0e75b6&style=flat" alt="imgurmeet4u" /> </p>
 
-- 🔭 I’m currently working on **Data Science**
+🎯 Senior Software Engineer | AI Architect | AI R&D
 
-- 🌱 I’m currently learning **Data science with different algorithms and libraries**
+🚀 With 8+ years of experience in software engineering, data science, and AI innovation, I specialize in building enterprise-grade AI & Generative AI solutions — from LLM-based architectures to AI-driven automation systems. Currently, I'm part of the R&D team, actively contributing to cutting-edge projects, RFPs, RFIs, and PoCs.
 
-- 💬 Ask me about **How to play with data...**
+💡 What I Do
+🧠 Architect LLM-based & GenAI Solutions (RAG, Prompt Engineering, LangChain, CrewAI)
 
-- 📫 How to reach me **mgurmeet289@gmail.com**
+🛠 Build AI-powered Systems
 
-<h3 align="left">Connect with me:</h3>
+☁️ Design & Deploy Cloud-Native AI/ML Solutions on AWS & GCP
+
+📊 Automate Data Pipelines & MLOps using Apache Beam, Docker, Kubernetes, and more
+
+📈 Drive AI Observability with Prometheus, Grafana
+
+🌱 Agent-based AI workflows (CrewAI, AutoGen)
+
+
+📬 Connect with Me
+📧 Email: mgurmeet289@gmail.com
+
+🧑‍💻 GitHub : https://github.com/gurmeet289
+
 <p align="left">
 </p>
 
