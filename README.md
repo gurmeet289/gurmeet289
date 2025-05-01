@@ -11,6 +11,7 @@
 🚀 With 8+ years of experience in software engineering, data science, and AI innovation, I specialize in building enterprise-grade AI & Generative AI solutions — from LLM-based architectures to AI-driven automation systems. Currently, I'm part of the R&D team, actively contributing to cutting-edge projects, RFPs, RFIs, and PoCs.
 
 💡 What I Do
+
 🧠 Architect LLM-based & GenAI Solutions (RAG, Prompt Engineering, LangChain, CrewAI)
 
 🛠 Build AI-powered Systems
