@@ -12,23 +12,23 @@
 
 💡 What I Do
 
-🧠 Architect LLM-based & GenAI Solutions (RAG, Prompt Engineering, LangChain, CrewAI)
+  1) 🧠 Architect LLM-based & GenAI Solutions (RAG, Prompt Engineering, LangChain, CrewAI)
+  
+  2) 🛠 Build AI-powered Systems
+  
+  3) ☁️ Design & Deploy Cloud-Native AI/ML Solutions on AWS & GCP
+  
+  4) 📊 Automate Data Pipelines & MLOps using Apache Beam, Docker, Kubernetes, and more
+  
+  5) 📈 Drive AI Observability with Prometheus, Grafana
+  
+  6) 🌱 Agent-based AI workflows
 
-🛠 Build AI-powered Systems
+  📬 Connect with Me :
 
-☁️ Design & Deploy Cloud-Native AI/ML Solutions on AWS & GCP
-
-📊 Automate Data Pipelines & MLOps using Apache Beam, Docker, Kubernetes, and more
-
-📈 Drive AI Observability with Prometheus, Grafana
-
-🌱 Agent-based AI workflows (CrewAI, AutoGen)
-
-
-📬 Connect with Me
-📧 Email: mgurmeet289@gmail.com
-
-🧑‍💻 GitHub : https://github.com/gurmeet289
+  📧 Email: mgurmeet289@gmail.com
+  
+  🧑‍💻 GitHub : https://github.com/gurmeet289
 
 <p align="left">
 </p>
