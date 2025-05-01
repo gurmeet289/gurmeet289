@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imgurmeet4u&label=Profile%20views&color=0e75b6&style=flat" alt="imgurmeet4u" /> </p>
 
-🎯 Senior Software Engineer | AI Architect | AI R&D
+🎯 AI Architectural Designs | AI R&D
 
 🚀 With 8+ years of experience in software engineering, data science, and AI innovation, I specialize in building enterprise-grade AI & Generative AI solutions — from LLM-based architectures to AI-driven automation systems. Currently, I'm part of the R&D team, actively contributing to cutting-edge projects, RFPs, RFIs, and PoCs.
 
